@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeNoxIA_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x3D89E597,
-				0x475075E7,
+				0xAC679596,
+				0x2B18A7E9,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

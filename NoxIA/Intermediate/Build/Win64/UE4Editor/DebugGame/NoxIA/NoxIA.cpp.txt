@@ -1,0 +1,2 @@
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\DebugGame\NoxIA\Definitions.NoxIA.h
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\NoxIA\Source\NoxIA\NoxIA.h

@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\PruebasNox\\NoxIA\\Source\\NoxIA\\NoxIA.Build.cs",
-		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\PruebasNox\\NoxIA\\Source\\NoxIA.Target.cs",
-		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\PruebasNox\\NoxIA\\Source\\NoxIAEditor.Target.cs"
+		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\NoxIA\\Source\\NoxIA\\NoxIA.Build.cs",
+		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\NoxIA\\Source\\NoxIA.Target.cs",
+		"C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\NoxIA\\Source\\NoxIAEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }

@@ -1,0 +1,3 @@
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\DebugGame\NoxIA\Definitions.NoxIA.h
+C:\Program Files\Epic Games\UE_4.27_2\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27_2\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

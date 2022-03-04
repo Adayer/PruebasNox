@@ -1,13 +1,3 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox).
-  Building NoxIAEditor...
-  Using Visual Studio 2019 14.28.29915 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.28.29910) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 5 actions with 36 processes...
-    [1/5] BTTask_ChooseNextWaypoint.cpp
-    [2/5] BTTask_MoveToWaypoint.cpp
-    [3/5] UE4Editor-NoxIA-0011.lib
-       Creating library C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Development\NoxIA\UE4Editor-NoxIA-0011.lib and object C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Development\NoxIA\UE4Editor-NoxIA-0011.exp
-    [4/5] UE4Editor-NoxIA-0011.dll
-       Creating library C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Development\NoxIA\UE4Editor-NoxIA-0011.suppressed.lib and object C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Development\NoxIA\UE4Editor-NoxIA-0011.suppressed.exp
-    [5/5] NoxIAEditor.target
-  Total time in Parallel executor: 2,01 seconds
-  Total execution time: 2,58 seconds
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\andres.perez\Documents\GitHub\PruebasNox).
+  Target is up to date
+  Total execution time: 0,46 seconds
