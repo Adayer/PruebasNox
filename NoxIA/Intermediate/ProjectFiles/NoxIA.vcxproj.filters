@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\NoxIA.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{D5E8ECF2-DE38-462D-A7AB-151CF8653F08}</UniqueIdentifier>
+      <UniqueIdentifier>{4D1DA6D9-4AED-4BDD-A19F-D0CC0C84925F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NoxIA.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{9933600F-9911-4672-BA43-6A21DB6C48C5}</UniqueIdentifier>
+      <UniqueIdentifier>{DA00A3B0-523E-4F80-BFA8-9F1311D316A2}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\NoxIA">
-      <UniqueIdentifier>{0C44B839-E226-4F2D-B6BA-0A83873DB833}</UniqueIdentifier>
+      <UniqueIdentifier>{B9C24D14-8924-4F39-B3D4-17A18068916D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\NoxIA\NoxIA.Build.cs">
       <Filter>Source\NoxIA</Filter>
@@ -64,6 +64,42 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\NoxIA\NoxIAProjectile.h">
       <Filter>Source\NoxIA</Filter>
+    </ClInclude>
+    <Filter Include="Source\NoxIA\IA">
+      <UniqueIdentifier>{D6EC666F-C60A-4D81-A88C-B43ABBFEB60E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NoxIA\IA\AI_AIController.cpp">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoxIA\IA\AI_AIController.h">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoxIA\IA\AI_PointOfInterest.cpp">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoxIA\IA\AI_PointOfInterest.h">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoxIA\IA\BTTask_ChooseNextWaypoint.cpp">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoxIA\IA\BTTask_ChooseNextWaypoint.h">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NoxIA\IA\BTTask_MoveToWaypoint.cpp">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoxIA\IA\BTTask_MoveToWaypoint.h">
+      <Filter>Source\NoxIA\IA</Filter>
+    </ClInclude>
+    <Filter Include="Source\NoxIA\Pruebas">
+      <UniqueIdentifier>{DD59D04B-EE21-4571-A726-472E683AE86C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\NoxIA\Pruebas\MyCharacter.cpp">
+      <Filter>Source\NoxIA\Pruebas</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NoxIA\Pruebas\MyCharacter.h">
+      <Filter>Source\NoxIA\Pruebas</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

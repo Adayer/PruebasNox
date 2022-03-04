@@ -1,0 +1,5 @@
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Development\NoxIA\Definitions.NoxIA.h
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Source\NoxIA\IA\AI_PointOfInterest.h
+C:\Program Files\Epic Games\UE_4.27_2\Engine\Source\Runtime\Engine\Classes\Engine/TargetPoint.h
+C:\Program Files\Epic Games\UE_4.27_2\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TargetPoint.generated.h
+C:\Users\andres.perez\Documents\GitHub\PruebasNox\PruebasNox\NoxIA\Intermediate\Build\Win64\UE4Editor\Inc\NoxIA\AI_PointOfInterest.generated.h
