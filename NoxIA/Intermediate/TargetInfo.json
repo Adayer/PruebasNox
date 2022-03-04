@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "NoxIA",
+			"Path": "C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\PruebasNox\\NoxIA\\Source\\NoxIA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NoxIAEditor",
+			"Path": "C:\\Users\\andres.perez\\Documents\\GitHub\\PruebasNox\\PruebasNox\\NoxIA\\Source\\NoxIAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
